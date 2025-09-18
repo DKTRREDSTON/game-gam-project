@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://c3nl2gmfv1dvo"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="VSeparator" type="VSeparator" parent="."]
+offset_right = 762.0
+offset_bottom = 454.0
